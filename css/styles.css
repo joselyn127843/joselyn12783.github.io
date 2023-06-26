@@ -1,0 +1,21 @@
+/*
+PALETA DE COLORES BASE
+ #8294C4 PRINCIPAL
+ #ACB1D6 SECUNDARIO
+ #DBDFEA TERCIARIO
+ #FFEAD2 CUATERNARIO
+*/
+
+/* NAV */
+.nav {
+    background-color: #8294C4;
+    border-bottom: 1px solid #ACB1D6;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+}
